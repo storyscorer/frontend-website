@@ -2,6 +2,8 @@
 
 ![StoryScorer Logo](/assets/storyscorer-logos.jpeg)
 
+[![Trello Board](https://img.shields.io/badge/-trello%20board-blue)](https://trello.com/b/lwcWrOXi/story-scorer-kanban-board)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
