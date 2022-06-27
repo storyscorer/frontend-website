@@ -44,9 +44,11 @@
     ]
   },
   "devDependencies": {
+    "@types/react-helmet": "^6.1.5",
     "@types/react-router": "^5.1.18",
     "@types/react-router-dom": "^5.3.3",
     "@types/tailwindcss": "^3.0.11",
-    "postcss-import": "^14.1.0"
+    "postcss-import": "^14.1.0",
+    "react-helmet": "^6.1.0"
   }
 }
